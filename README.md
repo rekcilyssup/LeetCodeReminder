@@ -28,12 +28,26 @@ A beautiful macOS menu bar app that helps you track your LeetCode progress with 
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Option 1: Download Pre-Built Release (Fastest)
+
+1. Go to [Releases](https://github.com/rekcilyssup/LeetCodeReminder/releases)
+2. Download `LeetCodeReminder.app.zip`
+3. Unzip it
+4. Move `LeetCodeReminder.app` to `/Applications`
+5. **First run:** Run this in Terminal to allow macOS to open it:
+   ```bash
+   xattr -cr /Applications/LeetCodeReminder.app
+   ```
+6. Open from Applications or Spotlight ✨
+
+### Option 2: Build from Source
+
+#### Prerequisites
 - macOS 13.0 or later
 - Xcode 15.0 or later
 - LeetCode account
 
-### Installation
+#### Installation
 
 1. **Open in Xcode**
    ```bash
