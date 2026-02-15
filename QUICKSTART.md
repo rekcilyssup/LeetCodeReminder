@@ -24,7 +24,8 @@ xcodebuild -version
 No need to open Xcode GUI! Build directly from terminal:
 
 ```bash
-cd "/Users/aravindrao/Developer/Projects/Leetcode Reminder"
+git clone https://github.com/rekcilyssup/LeetCodeReminder.git
+cd LeetCodeReminder
 ./build.sh
 ```
 
@@ -45,7 +46,8 @@ open /Applications/LeetCodeReminder.app
 If you want to see the code or debug:
 
 ```bash
-cd "/Users/aravindrao/Developer/Projects/Leetcode Reminder"
+git clone https://github.com/rekcilyssup/LeetCodeReminder.git
+cd LeetCodeReminder
 open LeetCodeReminder.xcodeproj
 ```
 

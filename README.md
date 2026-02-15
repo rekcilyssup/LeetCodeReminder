@@ -33,7 +33,8 @@ A beautiful macOS menu bar app that helps you track your LeetCode progress with 
 
 1. **Open in Xcode**
    ```bash
-   cd "/Users/aravindrao/Developer/Projects/Leetcode Reminder"
+   git clone https://github.com/rekcilyssup/LeetCodeReminder.git
+   cd LeetCodeReminder
    open LeetCodeReminder.xcodeproj
    ```
 

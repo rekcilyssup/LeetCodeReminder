@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>0EDC3DEE-9B4F-4BAB-A1B2-5F073525B458</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0EDC3DEE-9B4F-4BAB-A1B2-5F073525B458.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetCodeReminder project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetCodeReminder</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project LeetCodeReminder with scheme LeetCodeReminder and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>792832740.43628502</real>
+			<key>timeStoppedRecording</key>
+			<real>792832743.394701</real>
+			<key>title</key>
+			<string>Building project LeetCodeReminder with scheme LeetCodeReminder and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>0EDC3DEE-9B4F-4BAB-A1B2-5F073525B458</string>
+		</dict>
+		<key>41E37637-FA43-47AA-A7A5-B8C68C164D90</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41E37637-FA43-47AA-A7A5-B8C68C164D90.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetCodeReminder project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetCodeReminder</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project LeetCodeReminder with scheme LeetCodeReminder and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>792832471.65387702</real>
+			<key>timeStoppedRecording</key>
+			<real>792832471.81422698</real>
+			<key>title</key>
+			<string>Cleaning project LeetCodeReminder with scheme LeetCodeReminder and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>41E37637-FA43-47AA-A7A5-B8C68C164D90</string>
+		</dict>
+		<key>7CADB87D-93AA-4BAC-BA73-0B31BB22A90C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7CADB87D-93AA-4BAC-BA73-0B31BB22A90C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetCodeReminder project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetCodeReminder</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project LeetCodeReminder with scheme LeetCodeReminder and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>792832740.19744503</real>
+			<key>timeStoppedRecording</key>
+			<real>792832740.43500495</real>
+			<key>title</key>
+			<string>Cleaning project LeetCodeReminder with scheme LeetCodeReminder and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>7CADB87D-93AA-4BAC-BA73-0B31BB22A90C</string>
+		</dict>
+		<key>90C48958-0505-4829-89BC-FEF56790D840</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90C48958-0505-4829-89BC-FEF56790D840.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LeetCodeReminder project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LeetCodeReminder</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project LeetCodeReminder with scheme LeetCodeReminder and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>792832909.26853502</real>
+			<key>timeStoppedRecording</key>
+			<real>792832909.45170605</real>
+			<key>title</key>
+			<string>Cleaning project LeetCodeReminder with scheme LeetCodeReminder and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>90C48958-0505-4829-89BC-FEF56790D840</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
