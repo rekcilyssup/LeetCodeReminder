@@ -2,6 +2,10 @@
 
 A beautiful macOS menu bar app that helps you track your LeetCode progress with real-time status indicators.
 
+## 📸 Screenshot
+
+![LeetCode Reminder Preview](images/screenshot.png)
+
 ## ✨ Features
 
 ### 🎯 Core Features
